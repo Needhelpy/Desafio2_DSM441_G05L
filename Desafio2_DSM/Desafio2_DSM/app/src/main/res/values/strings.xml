@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Farmacia Don Bosco</string>
+    <!-- Login -->
+    <string name="login_email_hint">Correo electrónico</string>
+    <string name="login_password_hint">Contraseña</string>
+    <string name="login_button_text">Iniciar sesión</string>
+    <string name="register_button_text">Registrarse</string>
+    <string name="login_success">Inicio de sesión exitoso</string>
+    <string name="register_success">Registro exitoso</string>
+    <string name="login_failed">Error al iniciar sesión</string>
+    <string name="register_failed">Error al registrar usuario</string>
+    <string name="login_fill_fields">Por favor llena todos los campos</string>
+    <string name="login_username_hint">Usuario</string>
+    <string name="menu_select_medicine">Seleccionar Medicamento</string>
+    <string name="menu_view_history">Historial de Compras</string>
+    <string name="select_medicine_title">Lista de Medicamentos</string>
+    <string name="select_medicine_total">Total: %1$s</string>
+    <string name="select_medicine_confirm_order">Confirmar Pedido</string>
+    <string name="purchase_history_title">Historial de Compras</string>
+    <string name="error_empty_username">Por favor ingrese un nombre de usuario</string>
+    <!-- Texto para confirmar el pedido -->
+    <string name="confirmar_pedido">Confirmar Pedido</string>
+
+    <!-- Total en la lista de medicamentos -->
+    <string name="medicamentos_total">Total: $0.00</string>
+
+    <!-- Descripción del logo de medicamentos -->
+    <string name="medicamentos_logo_desc">Logo de medicamentos</string>
+
+    <!-- Texto de Medicamentos -->
+    <string name="medicamentos">Medicamentos</string>
+
+    <!-- Texto del botón "Ver Carrito" -->
+    <string name="ver_carrito">VER CARRITO</string>
+
+    <!-- Texto del botón "Ver Historial de Compras" -->
+    <string name="ver_historial">VER HISTORIAL DE COMPRAS</string>
+
+    <!-- Título del historial de compras -->
+    <string name="historial_compras">Historial de Compras</string>
+
+    <!-- Texto del botón para regresar -->
+    <string name="regresar">REGRESAR</string>
+    }
+    <!-- Texto para el nombre del medicamento -->
+    <string name="nombre_medicamento">Medicamento</string>
+
+    <!-- Texto para el botón "Agregar" -->
+    <string name="agregar">AGREGAR</string>
+
+    <!-- Texto para el precio inicial -->
+    <string name="precio_inicial">$0.00</string>
+</resources>
